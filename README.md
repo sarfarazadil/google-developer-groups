@@ -28,4 +28,4 @@ Join us on this exciting journey of learning and innovation! 🚀
 
 💻 **Happy Coding!**  
 **Sarfaraz Adil**  
-_GDG Organizer, MIT Muzaffarpur_
+_GDG On Campus Organizer, MIT Muzaffarpur_
