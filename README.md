@@ -1,4 +1,4 @@
-#  GDG on Campus MIT Muzaffarpur! 🎉
+#  GDG on Campus MIT Muzaffarpur! 🎉 
 
 Hello! 👋 I'm **Sarfaraz Adil**, the **Google Developer Group (GDG) on-campus organizer** at **MIT Muzaffarpur**. This repository serves as a hub for all things related to our vibrant developer community. 🚀
 
